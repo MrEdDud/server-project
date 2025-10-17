@@ -6,3 +6,5 @@ I first got the PC and removed a lot of the excess space that I could. To do thi
 
 ### Image I used to plug the power button back in
 ![motherboard-power-button](https://github.com/user-attachments/assets/01a316bd-3617-4a4f-a10d-a39ad96952d9)
+
+Now for the software. I used debian 12 with CasaOS and the install was mostly smooth and simple except for one error which I had
