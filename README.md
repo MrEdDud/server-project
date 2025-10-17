@@ -8,3 +8,6 @@ I first got the PC and removed a lot of the excess space that I could. To do thi
 ![motherboard-power-button](https://github.com/user-attachments/assets/01a316bd-3617-4a4f-a10d-a39ad96952d9)
 
 Now for the software. I used debian 12 with CasaOS and the install was mostly smooth and simple except for one error which I had
+
+### The Debian error
+![debian-error](https://github.com/user-attachments/assets/9460ab2f-5038-4e2d-be37-3e91b530ea51)
