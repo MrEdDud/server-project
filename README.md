@@ -13,6 +13,6 @@ I first got the PC and removed a lot of the excess space that I could. To do thi
 Now for the software. I used debian 12 with CasaOS and the install was mostly smooth and simple except for one error which I had. After that I booted up into CasaOS from my computer after putting in the username and password, installed the necessary software to run a minecraft server, activated port forwarding and then used the server.
 
 ### The Debian error
-![debian-error](https://github.com/user-attachments/assets/6eabb6c3-abc1-487b-9ce3-84bb00732857)
+![debian-error](https://github.com/user-attachments/assets/1f7a0087-5cd8-46cc-8ea2-27c772b197fa)
 
 Im glad that I did a small project like this because it was my first proper introduction to Linux and really helped me understand very basic terminal commands and also taught me the skills to research online effectively and solving problems that I faced.
