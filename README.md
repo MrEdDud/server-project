@@ -4,7 +4,7 @@ I decided to turn an old PC into a server to learn more about Linux. I used Casa
 
 I first got the PC and removed a lot of the excess space that I could. To do this I had to remove the power button from the motherboard, where I then had to find a datasheet online for that motherboard to figure out how to plug the button back in correctly (image is below). Then I built a case out of wood for it.
 
-### How the computer looked like after trimming down the case
+### How the computer looked like after trimming down the case (very messy I know)
 ![server](https://github.com/user-attachments/assets/2b2bc28d-99d3-40b8-a1d6-423df26bd70a)
 
 ### Image I used to plug the power button back in
